@@ -14,3 +14,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.homepage_image {
+  height:124px
+}
